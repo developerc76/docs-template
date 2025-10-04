@@ -1,11 +1,17 @@
 #lang pollen
 
 # A Heading
+
 <br>
+
 ## Another Heading
+
 <br>
+
 ### A third Heading!
+
 <br>
+
 **Bold Text**
 
 * Unordered List
