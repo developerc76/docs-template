@@ -1,0 +1,4 @@
+compile/
+.vscode/
+*.out
+*.exe
