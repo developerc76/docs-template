@@ -51,7 +51,7 @@ $ ./compile.sh
 
 Run locally at [port 8080](http://localhost:8080/index.ptree) by default (by clicking on the index.html file)
 
-Deploy on GitHub Pages or GitLab Pages (they will use the index.html file as the file to render at username.github.io/project/)
+Deploy on GitHub Pages or GitLab Pages (they will use the index.html file as the file to render at username.github.io/project/) 
 
 ## Notes: 
 
