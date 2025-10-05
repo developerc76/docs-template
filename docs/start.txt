@@ -52,6 +52,12 @@
                                 color: red;
                         }
 
+                        #footer a {
+                                font-style: normal;
+                                text-decoration: none;
+                                color: white;
+                        }
+
                         h1,
                         h2,
                         h3 {
@@ -163,6 +169,12 @@
                                 color: red;
                         }
 
+                        #footer a {
+                                font-style: normal;
+                                text-decoration: none;
+                                color: white;
+                        }
+
                         h1,
                         h2,
                         h3 {
@@ -261,5 +273,4 @@
                 </div>
         </div>
         <div id="content">
-         <br></br>
-         <p>
+         <br>
