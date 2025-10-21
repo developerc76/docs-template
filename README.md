@@ -1,6 +1,6 @@
 # docs-template
 
-Template for websites and documentation pages in the style of [developerc76.github.io](https://developerc76.github.io/)
+Template for websites and documentation pages in the style of [jasr4j.github.io](https://jasr4j.github.io/)
 
 ## Requirements: 
 
@@ -15,7 +15,7 @@ Racket (> 8.1), Raco, Bash, wget, unzip
 Download the zip file for the template and unzip the folder: 
 
 ```
-$ wget https://raw.githubusercontent.com/developerc76/docs-template/main/docs.zip
+$ wget https://raw.githubusercontent.com/jasr4j/docs-template/main/docs.zip
 $ unzip docs.zip
 ```
 
@@ -26,7 +26,7 @@ Run the following in the repo in which the template should be placed:
 This will clone the template to a new folder in the repo called docs/
 
 ```
-$ git clone https://github.com/developerc76/docs-template.git
+$ git clone https://github.com/jasr4j/docs-template.git
 $ cd docs-template
 $ mv docs ..
 $ cd .. && rm -rf docs-template
@@ -61,6 +61,6 @@ Used Pollen v3.2
 
 This is mobile and desktop friendly
 
-Example of this template: [GitHub pages for this repo](https://developerc76.github.io/docs-template/)
+Example of this template: [GitHub pages for this repo](https://jasr4j.github.io/docs-template/)
 
 After headings like "# Heading" or "## Heading 2", you should add a "\<br>" statement
